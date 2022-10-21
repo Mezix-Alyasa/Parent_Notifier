@@ -25,7 +25,7 @@ def Main():
 
         #>>> Emailing Department <<<#
         # Credentials
-        your_email = username
+        your_email = email
         your_password = password
 
         # Establishing connection with gmail
